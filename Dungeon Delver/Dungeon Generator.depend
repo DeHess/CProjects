@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1629463433 source:c:\users\nathh\desktop\cprojects\dungeon generator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+

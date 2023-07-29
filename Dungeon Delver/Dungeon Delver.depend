@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1630053080 source:c:\users\nathh\desktop\cprojects\dungeon delver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+	"printInventory.h"
+	"dungeonGenerator.h"
+	"charMovement.h"
+	<conio.h>
+
+1629805159 source:c:\users\nathh\desktop\cprojects\dungeon delver\declarations.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1629805962 source:c:\users\nathh\desktop\cprojects\dungeon delver\test.h
+	<stdbool.h>
+
+1629806005 source:c:\users\nathh\desktop\cprojects\dungeon delver\test.c
+	"test.h"
+	<stdio.h>
+	"test.h"
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+
+1629805962 c:\users\nathh\desktop\cprojects\dungeon delver\test.h
+	<stdbool.h>
+
+1629805159 c:\users\nathh\desktop\cprojects\dungeon delver\declarations.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1629807809 c:\users\nathh\desktop\cprojects\dungeon delver\printinventory.h
+
+1629807809 source:c:\users\nathh\desktop\cprojects\dungeon delver\printinventory.h
+
+1629810630 source:c:\users\nathh\desktop\cprojects\dungeon delver\printinventory.c
+	"printInventory.h"
+
+1629811057 source:c:\users\nathh\desktop\cprojects\dungeon delver\dungeongenerator.h
+
+1629985780 source:c:\users\nathh\desktop\cprojects\dungeon delver\dungeongenerator.c
+	"dungeonGenerator.h"
+	<stdbool.h>
+
+1629811057 c:\users\nathh\desktop\cprojects\dungeon delver\dungeongenerator.h
+
+1630051514 source:c:\users\nathh\desktop\cprojects\dungeon delver\charactermovement.c
+	"charMovement.h"
+	<stdbool.h>
+
+1629982602 c:\users\nathh\desktop\cprojects\dungeon delver\charmovement.h
+
+1629982602 source:c:\users\nathh\desktop\cprojects\dungeon delver\charmovement.h
+
+1630047077 source:c:\users\nathh\desktop\cprojects\dungeon delver\dungeonpainter.c
+	"dungeonPainter.h"
+
+1629983832 c:\users\nathh\desktop\cprojects\dungeon delver\dungeonpainter.h
+
+1629983832 source:c:\users\nathh\desktop\cprojects\dungeon delver\dungeonpainter.h
+
+1630051428 source:c:\users\nathh\desktop\cprojects\dungeon delver\enemymovement.c
+	"enemyMovement.h"
+	<stdbool.h>
+
+1630046852 c:\users\nathh\desktop\cprojects\dungeon delver\enemymovement.h
+
+1630051841 source:c:\users\nathh\desktop\cprojects\dungeon delver\enemymovement.h
+
